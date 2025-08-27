@@ -44,7 +44,7 @@ The repository is organized to be intuitive and easy to navigate for reviewers a
 │   ├── driver_customer_ratings.png
 ├── README.md
 └── .gitignore# 📊 Ola Ride-Hailing Data Analysis: A Business Intelligence Case Study
-
+```
 ### About Me
 Hello! I'm Shashwat Trivedi, an aspiring data analyst passionate about transforming raw data into actionable insights. This project showcases my proficiency in data cleaning, analysis, and visualization using industry-standard tools.
 
